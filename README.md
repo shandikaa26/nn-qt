@@ -1,7 +1,7 @@
 # Neural Network Water Potability Analyzer
 
 A Rust-based water potability analysis tool using neural networks with multiple frontend options:
-- Native Rust GUI with egui 
+- Native Rust GUI
 - Cross-platform Qt interface
 
 ## Features
@@ -17,8 +17,7 @@ A Rust-based water potability analysis tool using neural networks with multiple 
 This project demonstrates:
 - Neural networks implementation in Rust
 - Multi-threaded architecture for concurrent training and UI
-- Two GUI implementations:
-  - Native Rust GUI using egui/eframe
+- Gui Implementation
   - C++/Qt integration using Rust FFI bindings
 
 ## Requirements
